@@ -8,17 +8,17 @@ public class CircleMain {
         Circle C2 = new Circle();
         Circle C3 = new Circle();
 
-        C1.setRadius(10);
-        C1.setX(3);
-        C1.setY(6);
+        C1.setRadius(3);
+        C1.setX(2);
+        C1.setY(1);
 
-        C2.setRadius(5);
-        C2.setX(10);
-        C2.setY(15);
+        C2.setRadius(4);
+        C2.setX(2);
+        C2.setY(3);
 
-        C3.setRadius(7);
-        C3.setX(14);
-        C3.setY(17);
+        C3.setRadius(3);
+        C3.setX(1);
+        C3.setY(2);
 
         System.out.println("Circle 1 information");
         displayInformation(C1);
